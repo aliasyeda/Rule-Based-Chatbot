@@ -37,6 +37,6 @@ Bot: Goodbye! Have a great day!
 
 ## Files
 - `chatbot.py` - Main program
-- `conversation_log.json` - Saved conversations (created when you run the program)
+- `conversation_log.json` - Saved conversations (created when we run the program)
 
 
