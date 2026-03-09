@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2026-03-09 04:08:54",
+    "user": "HOW ARE YOU?",
+    "bot": "I'm doing well, thank you for asking! How about you?"
+  },
+  {
+    "timestamp": "2026-03-09 04:10:42",
+    "user": "What is current time?",
+    "bot": "The current time is 04:08"
+  },
+  {
+    "timestamp": "2026-03-09 04:11:34",
+    "user": "who are you?",
+    "bot": "I'm MY CHATBOT, a simple rule-based chatbot designed to have basic conversations!"
+  },
+  {
+    "timestamp": "2026-03-09 04:11:59",
+    "user": "what can you do?",
+    "bot": "I'm a simple chatbot that can engage in basic conversation. I can tell you the time/date, respond to greetings, and have simple small talk."
+  }
+]
