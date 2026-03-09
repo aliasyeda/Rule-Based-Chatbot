@@ -33,11 +33,10 @@ Bot: The current time is 14:30
 You: exit
 Bot: Goodbye! Have a great day!
 
-text
+
 
 ## Files
 - `chatbot.py` - Main program
 - `conversation_log.json` - Saved conversations (created when you run the program)
 
-👨‍💻 Author
-Syeda Alia Samia
+
