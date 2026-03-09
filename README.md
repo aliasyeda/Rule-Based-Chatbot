@@ -48,12 +48,12 @@ This rule-based chatbot uses pattern matching and intent recognition to simulate
 ## 📦 Installation
 
 ### Prerequisites
-```bash
+
 # Python 3.8 or higher required
 python --version
 
 
-Setup Instructions
+### Setup Instructions
 Clone or create the project folder
 
 bash
